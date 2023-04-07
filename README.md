@@ -12,7 +12,7 @@
 
 <div align='center'>
   <img src="./src/hopher_tiger.png" height="200px">
-  <p>Hopher</p>
+  <img src="./src/hopher_jumper.png" height="200px">
 </div>
 
 **Hopher** is actually a gopher who is a student of [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) in South Korea. It loves Digging fields, eating pizza, and playing games.
