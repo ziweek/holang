@@ -17,6 +17,30 @@
 
 **Hopher** is actually a gopher who is a student of [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) in South Korea. It loves Digging fields, eating pizza, and playing games.
 
+## Grammer
+변수
+```
+// 
+어흥 호 밥먹었는지
+어흥 랑 점심메뉴
+어흥 이 가격
+
+//
+어흥 호호 밥먹었는지들
+어흥 랑랑 점심메뉴들
+어흥 이이 가격들
+```
+
+```
+크앙 밥먹었는지==참 ?
+  ! 으르렁~ 점심메뉴
+  !? 으르렁~ 아직 못먹음ㅠㅠ
+```
+
+```
+크릉 밥먹었는지들 
+  ! 
+```
 
 ## History
 
