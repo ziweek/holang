@@ -1,14 +1,11 @@
 # The Ho Programming Language
 
+***Ho*** is an open source programming language that makes it easy to build simple, reliable, and efficient software, ___as well as [Go](https://github.com/golang/go#the-go-programming-language)___.
+
 <div align='center'>
   <img src="./src/ho_label.png" width="100%">
 </div>
 
-
-
-## Introduction
-
-***Ho*** is an open source programming language that makes it easy to build simple, reliable, and efficient software, ___as well as [Go](https://github.com/golang/go#the-go-programming-language)___.
 
 ## Character
 
